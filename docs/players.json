@@ -1,0 +1,25 @@
+[
+    {
+        "name": "James Brown", //string
+      
+    "sports": "Basketball", //string
+    "team": {"name":"Raptors", "city":"Toronto"},    //string
+  "Position":"Forward", //string
+      "Age":"38" //string
+    },
+  {},
+  {
+    		"name": "LeBron James",
+    "sports": "Basketball",
+  "team": {"name":"Lakers", "city":"Los Angeles"},
+    "Position":"Forward",
+    "Age":"38"
+  },
+  {},
+  {
+    "name": "Lionel Messi",
+    "sports": "Soccer",
+    "team": {"name":"Inter Miami", "city":"Miami"},
+    "Position":"Foward",
+    "Age":"36"}
+]
